@@ -1,1 +1,0 @@
-java -cp "logback-examples.jar:lib/*" chapters.introduction.HelloWorld1
